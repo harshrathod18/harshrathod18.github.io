@@ -84,7 +84,8 @@ body {
 .text-container {
   width: 80%;
   height: 80%;
-  margin: 0;
+  margin-top: 0;
+  margin-start: 20px;
   display: block;
   justify-content: center;
   align-items: center;
