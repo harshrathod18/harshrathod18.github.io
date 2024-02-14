@@ -19,7 +19,7 @@ h1 {
 body {
   margin: 0px;
   background: url(1697967633651.jpg);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
