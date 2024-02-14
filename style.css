@@ -118,7 +118,7 @@ p {
 
 @keyframes heartMove {
   0% {
-    top: 50%;
+    top: 20%;
   }
   100% {
     top: 85%;
