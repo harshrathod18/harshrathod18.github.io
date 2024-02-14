@@ -35,7 +35,7 @@ body {
 .heart {
   position: absolute;
   left: 50%;
-  top: 40%;
+  top: 20%;
   text-align: center;
   transform: translate(-50%, -50%);
   transiton: transform 2s;
